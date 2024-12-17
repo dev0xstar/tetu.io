@@ -5642,7 +5642,7 @@ function Menu() {
         columnNumber: 9
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("li", {
         children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("a", {
-          href: "https://twitter.com/tetu_io",
+          href: "https://x.com/",
           children: "Twitter"
         }, void 0, false, {
           fileName: _jsxFileName,
@@ -7826,7 +7826,7 @@ const menuGroups = [{
   title: 'Community',
   items: {
     'Telegram': 'https://t.me/',
-    'Twitter': 'https://twitter.com/tetu_io',
+    'Twitter': 'https://x.com/',
   }
 }];
 

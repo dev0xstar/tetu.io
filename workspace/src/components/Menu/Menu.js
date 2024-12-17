@@ -8,7 +8,7 @@ export function Menu() {
           <a href="https://t.me/">Telegram</a>  
         </li>
         <li>
-          <a href="https://twitter.com/tetu_io">Twitter</a>
+          <a href="https://x.com/">Twitter</a>
         </li>
       </ul>
     </div>
