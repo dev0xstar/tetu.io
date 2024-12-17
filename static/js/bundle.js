@@ -5831,7 +5831,7 @@ const MobileMenu = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.forwardRef(_c
       children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("div", {
         className: _MobileMenu_module_css__WEBPACK_IMPORTED_MODULE_1__["default"].controls,
         children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("a", {
-          href: "https://swap.tetu.io/#/swap?inputCurrency=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174&outputCurrency=0x255707B70BF90aa112006E1b07B9AeA6De021424",
+          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
           className: _MobileMenu_module_css__WEBPACK_IMPORTED_MODULE_1__["default"].control,
           children: "Buy Tetu"
         }, void 0, false, {
@@ -7456,7 +7456,7 @@ function Buttons() {
       children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("div", {
         className: _Buttons_module_css__WEBPACK_IMPORTED_MODULE_0__["default"].controls,
         children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("a", {
-          href: "https://swap.tetu.io/#/swap?inputCurrency=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174&outputCurrency=0x255707B70BF90aa112006E1b07B9AeA6De021424",
+          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
           className: _Buttons_module_css__WEBPACK_IMPORTED_MODULE_0__["default"].control,
           children: "Buy Tetu"
         }, void 0, false, {
