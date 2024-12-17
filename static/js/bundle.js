@@ -7615,7 +7615,7 @@ function Footer() {
             columnNumber: 13
           }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("p", {
             className: _Footer_module_css__WEBPACK_IMPORTED_MODULE_2__["default"].description,
-            children: "All Rights Reserved \u24D2 2022"
+            children: "All Rights Reserved \u24D2 2024"
           }, void 0, false, {
             fileName: _jsxFileName,
             lineNumber: 12,
