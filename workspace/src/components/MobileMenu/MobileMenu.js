@@ -25,7 +25,7 @@ export const MobileMenu = React.forwardRef((props, ref) => {
           <a href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000" className={styles.control}>
             Buy Tetu
           </a>
-          <a href="https://app.tetu.io/" className={styles.control}>
+          <a href="https://app-tetu-io.vercel.app/" className={styles.control}>
             Enter App
           </a>
         </div>

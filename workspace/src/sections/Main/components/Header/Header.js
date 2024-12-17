@@ -46,7 +46,7 @@ export function Header() {
           <Logo />
         </div>
         <Menu />
-        <a className={styles.button} href="https://app.tetu.io/">
+        <a className={styles.button} href="https://app-tetu-io.vercel.app/">
           <Button text="Enter App" onClick={() => null} />
         </a>
         <div

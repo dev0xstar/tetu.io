@@ -5839,7 +5839,7 @@ const MobileMenu = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2__.forwardRef(_c
           lineNumber: 34,
           columnNumber: 11
         }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("a", {
-          href: "https://app.tetu.io/",
+          href: "https://app-tetu-io.vercel.app/",
           className: _MobileMenu_module_css__WEBPACK_IMPORTED_MODULE_1__["default"].control,
           children: "Enter App"
         }, void 0, false, {
@@ -7464,7 +7464,7 @@ function Buttons() {
           lineNumber: 8,
           columnNumber: 11
         }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxDEV)("a", {
-          href: "https://app.tetu.io/",
+          href: "https://app-tetu-io.vercel.app/",
           className: _Buttons_module_css__WEBPACK_IMPORTED_MODULE_0__["default"].control,
           children: "Enter App"
         }, void 0, false, {
@@ -8532,7 +8532,7 @@ function Header() {
         columnNumber: 9
       }, this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)("a", {
         className: _Header_module_css__WEBPACK_IMPORTED_MODULE_3__["default"].button,
-        href: "https://app.tetu.io/",
+        href: "https://app-tetu-io.vercel.app/",
         children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxDEV)(_components__WEBPACK_IMPORTED_MODULE_1__.Button, {
           text: "Enter App",
           onClick: () => null
